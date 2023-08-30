@@ -28,12 +28,12 @@
 ## Grupo 3: 
 |Nome|Github|
 |---|---|
-|[Raphael Sales de Souza][raphaelsales](https://github.com/raphaelsales)|
-|[Vinicius Maciel][ViniciusDevelopment](https://github.com/ViniciusDevelopment)|
-|[Antonio Cassio de Oliveira Neto][ACNprogrammer](https://github.com/ACNprogrammer/)|
-|[Jorge Antonio Motta Braga][jorgespark11](https://github.com/jorgespark11)|
-|[Wanderson Melo][sadMello](https://github.com/sadMello)|
-|[Pedro Trivelato][Ptrivelato](https://github.com/Ptrivelato)
-|[Loenis Fernandes][loenisjunior](https://github.com/loenisjunior)|
+|Raphael Sales de Souza|[raphaelsales](https://github.com/raphaelsales)|
+|Vinicius Maciel|[ViniciusDevelopment](https://github.com/ViniciusDevelopment)|
+|Antonio Cassio de Oliveira Neto|[ACNprogrammer](https://github.com/ACNprogrammer/)|
+|Jorge Antonio Motta Braga|[jorgespark11](https://github.com/jorgespark11)|
+|Wanderson Melo|[sadMello](https://github.com/sadMello)|
+|Pedro Trivelato|[Ptrivelato](https://github.com/Ptrivelato)
+|Loenis Fernandes|[loenisjunior](https://github.com/loenisjunior)|
 [Link do repositório](https://github.com/ViniciusDevelopment/EngSoft-2023.2)
 ##
