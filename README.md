@@ -43,7 +43,7 @@
 |---|---|
 |Luiz Carlos Porto do Carmo|[LuizCPorto](https://github.com/LuizCPorto)|
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
-|Caio Santos Silva|[Caiioczn](https://github.com/Caiioczn)|
+|Caio Santos Silva|[CaioSantdev](https://github.com/CaioSantdev)|
 |Vitoria Maria Reias Fontana|[Vitoriamrfontana](https://github.com/Vitoriamrfontana)|
 |Yngrid Guimarães|[Ynguimaraes](https://github.com/Ynguimaraes)|
 [Link do repositório](https://github.com/LuizCPorto/ES-2023-2-Maze-Bank)
