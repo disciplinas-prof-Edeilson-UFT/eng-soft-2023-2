@@ -35,7 +35,7 @@
 |Wanderson Melo|[sadMello](https://github.com/sadMello)|
 |Pedro Trivelato|[Ptrivelato](https://github.com/Ptrivelato)
 |Loenis Fernandes|[loenisjunior](https://github.com/loenisjunior)|
-[Link do repositório](https://github.com/ViniciusDevelopment/EngenhariadeSOFTWARE-2023.2)
+[Link do repositório](https://github.com/jorgespark11/Engsoft2023.git)
 ##
 
 ## Grupo 4: 
