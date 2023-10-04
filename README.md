@@ -33,8 +33,6 @@
 |Antonio Cassio de Oliveira Neto|[ACNprogrammer](https://github.com/ACNprogrammer/)|
 |Jorge Antonio Motta Braga|[jorgespark11](https://github.com/jorgespark11)|
 |Wanderson Melo|[sadMello](https://github.com/sadMello)|
-|Pedro Trivelato|[Ptrivelato](https://github.com/Ptrivelato)
-|Loenis Fernandes|[loenisjunior](https://github.com/loenisjunior)|
 [Link do repositório](https://github.com/jorgespark11/Engsoft2023.git)
 ##
 
