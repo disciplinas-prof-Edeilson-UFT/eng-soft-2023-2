@@ -63,7 +63,20 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 [Link do repositório](https://github.com/LuizCPorto/ES-2023-2-Maze-Bank)
 ##
 
+---
+
 ### Grupo 5:
+
+#### Descrição do produto:
+O "RUcoins" é uma aplicação web que serve como gerenciador das transações financeiras do Restaurante Universitário da UFT. Com um design minimalista, visa oferecer ferramentas de gerenciamento financeiro das carteirinhas do restaurante para universitários, administradores, atendentes e até para adição de cobradores de forma simples, fácil e intuitiva com um ambiente que foca no que realmente importa quando se trata da verificação de saldo. Além disso, ele fornece a opção de recarga online, o que é um diferencial em vista de que os usuários não vão necessitar do trabalho de recarregar sua carteirinha presencialmente.
+</br>
+
+---
+#### [Slides da apresentação final](https://docs.google.com/presentation/d/1zME__Brhl_YhVbNFdcjkyMeJqdjmXJDJNrECiO40b7s/edit?usp=sharing)
+---
+
+</br>
+
 
 |Nome|Github|
 |---|---|
