@@ -1,0 +1,13 @@
+- O arquivo não está visualizavel em .pdf, mas o pdf foi enviado como alternativa;
+
+- O arquivo deve ser lido em modo de apresentação, se no power point não ficar bom, aqui está o link dele no google:
+
+<https://docs.google.com/presentation/d/1zME__Brhl_YhVbNFdcjkyMeJqdjmXJDJNrECiO40b7s/edit?usp=sharing>
+
+- Link do GitHUb do projeto:
+<https://github.com/LuFi-1227/Eng-Soft-2023-2.git>
+
+- Link do produto no servidor:
+<https://uftdevs.com.br/view/login.php>
+
+No mais, muito obrigado pela matéria e pelos ensinamentos, professor, foi muito bom poder estudar em uma turma do senhor neste semestre.
