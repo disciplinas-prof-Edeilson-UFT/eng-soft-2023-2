@@ -50,6 +50,16 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 ##
 
 ## Grupo 4: 
+
+#### Descrição do produto: 
+O "Maze-Bank" é um banco digital desenvolvido para todo tipo de pessoas. Sem muita burocracia para abrir a conta para que não tomamos muito seu tempo, oferecemos todo o suporte necessario, desde antes de criar conta até o momento de deletar, nosso objetivo é a democratização ao acesso bancario, podemos realizar transfêrencias, financiamentos, empréstimos, cartões de credito, tudo isso na palma da sua mão e o principal, sem burocracia. 
+</br>
+
+---
+
+<-br>
+
+
 |Nome|Github|
 |---|---|
 |Luiz Carlos Porto do Carmo|[LuizCPorto](https://github.com/LuizCPorto)|
@@ -57,6 +67,7 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 |Caio Santos Silva|[CaioSantdev](https://github.com/CaioSantdev)|
 |Vitoria Maria Reias Fontana|[Vitoriamrfontana](https://github.com/Vitoriamrfontana)|
 |Yngrid Guimarães|[Ynguimaraes](https://github.com/Ynguimaraes)|
+[Slides da apresentação final](https://www.canva.com/design/DAF2CuIz0KQ/ZG66lEeS4qdYUyD-0_pcfw/edit)
 [Link do repositório](https://github.com/LuizCPorto/ES-2023-2-Maze-Bank)
 ##
 
