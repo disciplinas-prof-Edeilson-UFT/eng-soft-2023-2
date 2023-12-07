@@ -11,10 +11,6 @@
 O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir corações e lares, conectando gatos abandonados no campus da Universidade Federal do Tocantins (UFT) a indivíduos e famílias carinhosas que desejam fazer a diferença na vida desses animais. Além de ser uma plataforma intuitiva e interativa ela proporciona um ambiente virtual dedicado à catalogação e adoção de gatos abandonados dentro da universidade. Nossa visão é criar um espaço virtual gratuito onde a solidariedade, compaixão e amor pelos animais possam florescer, ao mesmo tempo em que promovemos a responsabilidade e conscientização sobre a adoção de animais de estimação.
 </br>
 
----
-#### [Slides da apresentação final](https://www.canva.com/design/DAF1xTX88Hg/y7lJPNkVIGf1uVD7FJq-ow/edit?utm_content=DAF1xTX88Hg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
----
-
 </br>
 
 
@@ -26,6 +22,7 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 |Thiago Gonzaga dos Santos|[tgofsaints](https://github.com/tgofsaints)|
 |Ana Flavia Moreira Pires|[ana-flav](https://github.com/ana-flav)|
 |Matheus Henrique Dreher dos Santos|[MatheusDreher](https://github.com/MatheusDreher)|
+[Slides da apresentação final](https://www.canva.com/design/DAF1xTX88Hg/y7lJPNkVIGf1uVD7FJq-ow/edit?utm_content=DAF1xTX88Hg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [Link do repositório](https://github.com/Kal-il/ES-2023_2-Adoteme)
 ##
 
@@ -69,10 +66,9 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 
 #### Descrição do produto:
 O "RUcoins" é uma aplicação web que serve como gerenciador das transações financeiras do Restaurante Universitário da UFT. Com um design minimalista, visa oferecer ferramentas de gerenciamento financeiro das carteirinhas do restaurante para universitários, administradores, atendentes e até para adição de cobradores de forma simples, fácil e intuitiva com um ambiente que foca no que realmente importa quando se trata da verificação de saldo. Além disso, ele fornece a opção de recarga online, o que é um diferencial em vista de que os usuários não vão necessitar do trabalho de recarregar sua carteirinha presencialmente.
+
 </br>
 
----
-#### [Slides da apresentação final](https://docs.google.com/presentation/d/1zME__Brhl_YhVbNFdcjkyMeJqdjmXJDJNrECiO40b7s/edit?usp=sharing)
 ---
 
 </br>
@@ -87,5 +83,6 @@ O "RUcoins" é uma aplicação web que serve como gerenciador das transações f
 |Gabryel Soares Marques|[GabryelMarques](https://github.com/GabryelMarques)|
 |Cassio Coutinho Lima|[Coutinhopmw’s](https://github.com/Coutinhopmw)|
 |Douglas Ribeiro Santos de Sá|[XDougSa](https://github.com/XDougSa)|
+[Slides da apresentação final](https://docs.google.com/presentation/d/1zME__Brhl_YhVbNFdcjkyMeJqdjmXJDJNrECiO40b7s/edit?usp=sharing)
 [Link do repositório](https://github.com/LuFi-1227/Eng-Soft-2023-2.git)
 ##
