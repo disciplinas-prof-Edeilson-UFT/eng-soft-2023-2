@@ -27,6 +27,12 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 ##
 
 ## Grupo 2: 
+#### Descrição do produto:
+Bem-vindo ao The Blog, o seu espaço digital pessoal para expressão autêntica e conexão significativa. Em nosso blog, você não apenas compartilha suas ideias, pensamentos e sentimentos, mas também constrói uma comunidade online envolvente.
+The Blog é mais do que um blog pessoal; é um ambiente online onde a autenticidade é celebrada, as conexões são aprimoradas e as vozes individuais são valorizadas. Seja para compartilhar suas reflexões mais profundas, se inspirar com as experiências de outros ou simplesmente construir amizades autênticas, The Blog é o lugar onde suas histórias ganham vida.
+
+Junte-se a nós agora e faça parte de uma comunidade que entende e valoriza o poder da expressão pessoal. Sua jornada digital começa aqui em The Blog.
+
 |Nome|Github|
 |---|---|
 |Dante Gallindo Ungarelli|[danteungarelli](https://github.com/danteungarelli)|
@@ -35,6 +41,7 @@ O "AdoteMe" é uma plataforma digital inovadora desenvolvida para unir coraçõe
 |Daniel Nolêto Maciel Luz|[Daniel-Noleto](https://github.com/Daniel-Noleto)|
 |João Victor Walcacer Giani|[joaovictorwg](https://github.com/joaovictorwg)|
 |Breno Borges|[Brenoborgesbr](https://github.com/Brenoborgesbr)|
+[Slides da apresentação final](https://www.canva.com/design/DAF2J3wZKQI/kwW-mYQF2FuHmvjwGP8H7g/edit?utm_content=DAF2J3wZKQI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 [Link do repositório](https://github.com/danteungarelli/Blogue-pessoal-eng-soft-2023-2)
 ##
 
