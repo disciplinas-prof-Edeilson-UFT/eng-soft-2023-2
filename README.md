@@ -32,9 +32,7 @@ Bem-vindo ao The Blog, o seu espaço digital pessoal para expressão autêntica 
 The Blog é mais do que um blog pessoal; é um ambiente online onde a autenticidade é celebrada, as conexões são aprimoradas e as vozes individuais são valorizadas. Seja para compartilhar suas reflexões mais profundas, se inspirar com as experiências de outros ou simplesmente construir amizades autênticas, The Blog é o lugar onde suas histórias ganham vida.
 
 Junte-se a nós agora e faça parte de uma comunidade que entende e valoriza o poder da expressão pessoal. Sua jornada digital começa aqui em The Blog.
-</br>
 
-</br>
 |Nome|Github|
 |---|---|
 |Dante Gallindo Ungarelli|[danteungarelli](https://github.com/danteungarelli)|
