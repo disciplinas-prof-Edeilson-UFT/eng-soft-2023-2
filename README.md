@@ -72,7 +72,7 @@ O "Maze-Bank" é um banco digital desenvolvido para todo tipo de pessoas. Sem mu
 |Luiz Carlos Porto do Carmo|[LuizCPorto](https://github.com/LuizCPorto)|
 |João Victor Ribeiro Santos|[Carecovisk](https://github.com/Carecovisk)|
 |Caio Santos Silva|[CaioSantdev](https://github.com/CaioSantdev)|
-|Vitoria Maria Reias Fontana|[Vitoriamrfontana](https://github.com/Vitoriamrfontana)|
+|Vitoria Maria Reias Fontana (Desistente)|[Vitoriamrfontana](https://github.com/Vitoriamrfontana)|
 |Yngrid Guimarães|[Ynguimaraes](https://github.com/Ynguimaraes)|
 [Slides da apresentação final](https://www.canva.com/design/DAF2CuIz0KQ/ZG66lEeS4qdYUyD-0_pcfw/edit)
 [Link do repositório](https://github.com/LuizCPorto/ES-2023-2-Maze-Bank)
