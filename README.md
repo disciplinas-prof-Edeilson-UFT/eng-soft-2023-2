@@ -64,7 +64,7 @@ O "Maze-Bank" é um banco digital desenvolvido para todo tipo de pessoas. Sem mu
 
 ---
 
-<-br>
+</br>
 
 
 |Nome|Github|
