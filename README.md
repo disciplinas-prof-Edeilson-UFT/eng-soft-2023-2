@@ -46,6 +46,9 @@ Junte-se a nós agora e faça parte de uma comunidade que entende e valoriza o p
 ##
 
 ## Grupo 3: 
+#### Descrição do produto:
+O "Skillsync" é uma plataforma especializada na compra e venda de serviços para pessoas físicas. Atua como a responsável pela hospedagem e divulgação dos serviços na plataforma, assim como, age como um ambiente de negociação entre os usuários e prestadores. Também há a possibilidade de se realizar a avaliação desses serviços, de seus prestadores e dos usuários que compraram tais serviços. Criando assim um ambiente mais transparente e amigavel para os negócios. Os serviços podem variar de serviços braçais e que dependem de sua localização, como também, possam ser serviços remotos: como administração, suporte tecnico e apoio lingistico. Se está a procura de um contrato que faça juz a suas habilidades ou precisa de um bom serviço visite Skillsync "O lugar onde encontramos pra você um profissional qualificado".
+
 |Nome|Github|
 |---|---|
 |Raphael Sales de Souza|[raphaelsales](https://github.com/raphaelsales)|
@@ -53,7 +56,7 @@ Junte-se a nós agora e faça parte de uma comunidade que entende e valoriza o p
 |Antonio Cassio de Oliveira Neto|[ACNprogrammer](https://github.com/ACNprogrammer/)|
 |Jorge Antonio Motta Braga|[jorgespark11](https://github.com/jorgespark11)|
 |Wanderson Melo|[sadMello](https://github.com/sadMello)|
-[Link do repositório](https://github.com/jorgespark11/Engsoft2023.git)
+[Link do repositório](https://github.com/ViniciusDevelopment/EngenhariaSoft-2023.2.git)
 ##
 
 ## Grupo 4: 
